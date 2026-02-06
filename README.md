@@ -118,7 +118,7 @@ Click any topic below to open the corresponding SQL file.
 
 ---
 
-## 🧠 How to Use
+## How to Use
 1. Click any topic above
 2. Open the `.sql` file
 3. Run queries in **MySQL / PostgreSQL / SQL Server**
@@ -126,14 +126,11 @@ Click any topic below to open the corresponding SQL file.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Keerthi**
 
----
 
-⭐ If this repository helped you, feel free to star it!
 
----
 
 
 
